@@ -38,7 +38,7 @@ sfdx force:auth:web:login -d -a myhuborg
 3. Clone the repository:
 
 ```
-git clone https://github.com/trailheadapps/ebikes-lwc
+git clone https://github.com/rashidahmad03/ebikes-lwc.git
 cd ebikes-lwc
 ```
 
